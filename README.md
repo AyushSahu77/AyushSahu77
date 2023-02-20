@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @AyushSahu77
 - 👀 I’m interested in Cyber Security & Cyber Defence
-- 🌱 I’m currently learning VAPT and exploring Cloud Security and Interested in Web3 Technology
+- 🌱 I’m currently learning VAPT, exploring Cloud Security and Interested in Web3 Technology
 - 💞️ I’m always Happy to collaborate
 
 <h3 align="left">Connect with me:</h3>
